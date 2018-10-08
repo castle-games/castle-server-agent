@@ -1,5 +1,5 @@
 {
-  "name": "beefeater",
+  "name": "castle-server-agent",
   "version": "1.0.0",
   "description": "An agent for keeping the castle server deployed and up to date",
   "main": "index.js",
@@ -7,6 +7,12 @@
   "author": "Charlie Cheever <ccheever@expo.io>",
   "license": "MIT",
   "devDependencies": {
+    "@expo/spawn-async": "^1.3.0",
+    "nodemon": "^1.18.4",
     "project-repl": "^1.5.0"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "graphql-yoga": "^1.16.2"
   }
 }
