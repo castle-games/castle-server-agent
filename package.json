@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "An agent for keeping the castle server deployed and up to date",
   "main": "index.js",
-  "repository": "https://github.com/expo/beefeater.git",
+  "repository": "https://github.com/expo/castle-server-agent.git",
   "author": "Charlie Cheever <ccheever@expo.io>",
   "license": "MIT",
   "devDependencies": {
